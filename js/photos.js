@@ -1,13 +1,10 @@
-// event - guestName (date)
-// guestName (date)
-// guestName
-
 const photos = [
   {
     details: {
       guestName: "5th Anniversary Celebrations",
       date: "18th August, 2003",
-      description: "",
+      description:
+        "Sri Appi Reddy, District Employment Officer, Guntur came for 5th Anniversary Celebrations on 18th August 2003.",
       photosFolderName: "anniversary5",
     },
     photos: [
@@ -16,7 +13,7 @@ const photos = [
       {
         file: "3.jpg",
         caption:
-          "First Employment Recognition Certificate issued by OSS DTP Institure, to Ms. Latha By District Employment Officer Sri M. Appi Reddy garu",
+          "First Employment Recognition Certificate issued by OSS DTP Institure, to Ms. Latha By District Employment Officer Sri M. Appi Reddy",
       },
       {
         file: "4.jpg",
@@ -44,10 +41,150 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri K. Brahmaiah garu",
+      guestName: "Lecturer, J.K.C. College",
+      date: "October, 2003",
+      description:
+        "Sri Pulicherla Sambasiva Rao, Lecturer, J.K.C. College, Guntur, visited our institute to present trophies to the winners of August 2003 month exams.",
+      photosFolderName: "sambasivarao",
+    },
+    photos: [
+      { file: "1.jpg", caption: "Speech by Sri Sambasiva Rao" },
+      {
+        file: "2.jpg",
+        caption: "M.V.V.N. Pavan - First Prize in CorelDRAW 12",
+      },
+      {
+        file: "3.jpg",
+        caption: "M. Vasu - First Prize in Adobe PageMaker 7.0.1",
+      },
+    ],
+  },
+  {
+    details: {
+      guestName: "HOD, A.C. College",
+      date: "September, 2003",
+      description:
+        "Sri Sanjiva Rao, Retired Head of the Department, Mathematics, AC College, Guntur, visited our institute to present trophies to the winners of September month exams.",
+      photosFolderName: "sanjivarao",
+    },
+    photos: [
+      { file: "1.jpg", caption: "Bh. Lalitha - First Prize in CorelDRAW 11" },
+      {
+        file: "2.jpg",
+        caption: "R. Kiran Vara Prasad - First Prize in Adobe Photoshop 7",
+      },
+      {
+        file: "3.jpg",
+        caption: "M.V.V.N. Pavan Kumar - First Prize in Adobe PageMaker 7.0.1",
+      },
+      {
+        file: "4.jpg",
+        caption: "A.V. Phani Kumar - First Prize in CorelDRAW 11",
+      },
+    ],
+  },
+  {
+    details: {
+      guestName: "Proprietor, Suchitra Graphics",
+      date: "November, 2003",
+      description:
+        "Sri Suchitra Srinivas, Suchitra Graphics, 2/3, Brodipet, Guntur, visited our institute to present trophies to the winners of November 2003 month exams.",
+      photosFolderName: "srinivassuc",
+    },
+    photos: [
+      {
+        file: "1.jpg",
+        caption: "Bh. Lalitha - First Prize in PageMaker 7.0.1",
+      },
+      {
+        file: "2.jpg",
+        caption: "A. Meena Kumari - First Prize in Microsoft Office Word 2002",
+      },
+      {
+        file: "3.jpg",
+        caption: "Sk. Abibuddin - First Prize in Adobe Photoshop CS",
+      },
+      {
+        file: "4.jpg",
+        caption: "A.V. Phani Kumar - First Prize in PageMaker 7.0.1",
+      },
+      {
+        file: "5.jpg",
+        caption: "R. Kiran Vara Prasad - First Prize in CorelDRAW 11",
+      },
+    ],
+  },
+  {
+    details: {
+      guestName: "Proprietor, Sudharsan Printers",
+      date: "December, 2003",
+      description:
+        "Mr. & Mrs. Sudharsan Srinivas, Sudharsan Printers & Graphics, Guntur, visited our institute to present trophies to the winners of December month exams.",
+      photosFolderName: "srinivassud",
+    },
+    photos: [
+      {
+        file: "1.jpg",
+        caption: "T. Rajesh - First Prize in Adobe Photoshop 7",
+      },
+      {
+        file: "2.jpg",
+        caption: "M. Malleswari - First Prize in Adobe PageMaker 7.0.1",
+      },
+      {
+        file: "3.jpg",
+        caption:
+          "M.V.V.N. Pavan Kumar - First Prize in Microsoft Office Word 2002",
+      },
+      { file: "4.jpg", caption: "V. Anil Kumar - First Prize in CorelDRAW 11" },
+      {
+        file: "5.jpg",
+        caption: "M.V.V.N. Pavan Kumar - First Prize in Special Prize",
+      },
+    ],
+  },
+  {
+    details: {
+      guestName: "OSS Nilayam inauguration",
+      date: "9th March, 2004",
+      description:
+        "Mr. & Mrs. Janardhana Rao Lanka inagurated our new building, OSS Nilayam.",
+      photosFolderName: "ossnilayam",
+    },
+    photos: [
+      {
+        file: "1.jpg",
+        caption:
+          "OSS Nilayam (New Building), Inauguration by Dr. L. Janardhana Rao ",
+      },
+      {
+        file: "2.jpg",
+        caption: "Dr. L. Janardhana Rao entering to the Office",
+      },
+      { file: "3.jpg", caption: "Smt. L. Vanajakshi opening the Class Room" },
+      {
+        file: "4.jpg",
+        caption:
+          "A small boque to the Madam by Vanga Sasidhar, Managing Partner, OSS Computers",
+      },
+      { file: "5.jpg", caption: "Speech by Dr. Janardhana Rao" },
+      {
+        file: "6.jpg",
+        caption:
+          'Speech by Sri Jagannadha Rao : With a single computer in August 1998, the OSS DTP Institute was founded in a  rental shop.   It took 8 months until March 1999 to set up a second computer. OSS is indebted to Mr. Jagannadharao for donating a computer and helping the development of OSS DTP Institute in such a financial situation. Due to the untiring efforts of the staff and the Brain Bench International Certificates crowed by the Teachers of the institute, OSS now stands proudly in the competitive arena National of Computer Educational Institutions offering different courses right from Computer basics to the present day competitive needs of computer education and training.  All our past students who are now holding different important posts in various offices/organizations can be put to the strict proof of achievements and standards.  We would like to prove the essence of our logo "Learning is Infinite" and perpetuate OSS further through many other services.',
+      },
+      {
+        file: "7.jpg",
+        caption: "Speech by Vanga Sasidhar, Managing Partner, OSS Computers",
+      },
+    ],
+  },
+  {
+    details: {
+      guestName: "Proprieter, Sri Lakshmi Press",
       date: "June, 2004",
       description:
-        "Proprietor, Sri K. Brahmaiah, Proprietor, Sree Lakshmi Press, Guntur, visited our institute to present trophies to the winners of April month exams.",
+        "Sri Katragadda Brahmaiah, Proprietor, Sri Lakshmi Press, Guntur, visited our institute to present trophies to the winners of April month exams.",
       photosFolderName: "brahmaiah",
     },
     photos: [
@@ -92,27 +229,7 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri Pulicherla Sambasiva Rao garu",
-      date: "October, 2003",
-      description:
-        "Sri Pulicherla Samba Siva Rao, Lecturer, J.K.C. College, Guntur, visited our institute to present trophies to the winners of August 2003 month exams.",
-      photosFolderName: "sambasivarao",
-    },
-    photos: [
-      { file: "1.jpg", caption: "Speech by Sri Sambasiva Rao garu" },
-      {
-        file: "2.jpg",
-        caption: "M.V.V.N. Pavan - First Prize in CorelDRAW 12",
-      },
-      {
-        file: "3.jpg",
-        caption: "M. Vasu - First Prize in Adobe PageMaker 7.0.1",
-      },
-    ],
-  },
-  {
-    details: {
-      guestName: "Sri Koteswara Rao garu",
+      guestName: "Hardware Engineer",
       date: "June, 2004",
       description:
         "Sri Polisetty Koteswara Rao, Hardware Engineer, visited our institute to present trophies to the winners of June month exams.",
@@ -133,125 +250,10 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri G.V.L.N. Sanjiva Rao garu",
-      date: "September, 2003",
-      description:
-        "Sri Sanjiva Rao, Retired Head of the Department, Mathematics, AC College, Guntur, visited our institute to present trophies to the winners of September month exams.",
-      photosFolderName: "sanjivarao",
-    },
-    photos: [
-      { file: "1.jpg", caption: "Bh. Lalitha - First Prize in CorelDRAW 11" },
-      {
-        file: "2.jpg",
-        caption: "R. Kiran Vara Prasad - First Prize in Adobe Photoshop 7",
-      },
-      {
-        file: "3.jpg",
-        caption: "M.V.V.N. Pavan Kumar - First Prize in Adobe PageMaker 7.0.1",
-      },
-      {
-        file: "4.jpg",
-        caption: "A.V. Phani Kumar - First Prize in CorelDRAW 11",
-      },
-    ],
-  },
-  {
-    details: {
-      guestName: "Sri Suchitra Srinivas garu",
-      date: "November, 2003",
-      description:
-        "Sri Suchitra Srinivas, Suchitra Graphics, Guntur, visited our institute to present trophies to the winners of November 2003 month exams.",
-      photosFolderName: "srinivassuc",
-    },
-    photos: [
-      {
-        file: "1.jpg",
-        caption: "Bh. Lalitha - First Prize in PageMaker 7.0.1",
-      },
-      {
-        file: "2.jpg",
-        caption: "A. Meena Kumari - First Prize in Microsoft Office Word 2002",
-      },
-      {
-        file: "3.jpg",
-        caption: "Sk. Abibuddin - First Prize in Adobe Photoshop CS",
-      },
-      {
-        file: "4.jpg",
-        caption: "A.V. Phani Kumar - First Prize in PageMaker 7.0.1",
-      },
-      {
-        file: "5.jpg",
-        caption: "R. Kiran Vara Prasad - First Prize in CorelDRAW 11",
-      },
-    ],
-  },
-  {
-    details: {
-      guestName: "Mr. & Mrs. Sudharsan Srinivas garu",
-      date: "December, 2003",
-      description:
-        "Mr. & Mrs. Sudharsan Srinivas, Sudharsan Printers & Graphics, Guntur, visited our institute to present trophies to the winners of December month exams.",
-      photosFolderName: "srinivassud",
-    },
-    photos: [
-      {
-        file: "1.jpg",
-        caption: "T. Rajesh - First Prize in Adobe Photoshop 7",
-      },
-      {
-        file: "2.jpg",
-        caption: "M. Malleswari - First Prize in Adobe PageMaker 7.0.1",
-      },
-      {
-        file: "3.jpg",
-        caption:
-          "M.V.V.N. Pavan Kumar - First Prize in Microsoft Office Word 2002",
-      },
-      { file: "4.jpg", caption: "V. Anil Kumar - First Prize in CorelDRAW 11" },
-      {
-        file: "5.jpg",
-        caption: "M.V.V.N. Pavan Kumar - First Prize in Special Prize",
-      },
-    ],
-  },
-  {
-    details: {
-      guestName: "Dr. L. Janarhana Rao garu and Mrs. L. Vanajakshi",
-      date: "9th March, 2004",
-      description:
-        "Mr. & Mrs. Janardhana Rao Lanka inagurated our new building, OSS Nilayam.",
-      photosFolderName: "ossnilayam",
-    },
-    photos: [
-      {
-        file: "1.jpg",
-        caption:
-          "OSS Nilayam (New Building), Inauguration by Dr. L. Janardhana Rao garu",
-      },
-      {
-        file: "2.jpg",
-        caption: "Dr. L. Janardhana Rao garu entering to the Office",
-      },
-      { file: "3.jpg", caption: "Smt. L. Vanajakshi opening the Class Room" },
-      {
-        file: "4.jpg",
-        caption:
-          "A small boque to the Madam by Vanga Sasidhar, Managing Partner, OSS Computers",
-      },
-      { file: "5.jpg", caption: "Speech by Dr. Janardhana Rao garu" },
-      {
-        file: "6.jpg",
-        caption: "Speech by Vanga Sasidhar, Managing Partner, OSS Computers",
-      },
-    ],
-  },
-  {
-    details: {
-      guestName: "6th Anniversary Celebrations by Sri S.S.R. Anjaneyulu",
+      guestName: "6th Anniversary Celebrations",
       date: "18th August, 2004",
       description:
-        "Mr. S.S.R. Anjaneyulu (Proprietor, Citizens Printers, Guntur) came for 6th Anniversary Celebrations on 17th September 2004.",
+        "Sri S.S.R. Anjaneyulu, Proprietor, Citizens Printers, Guntur, came for 6th Anniversary Celebrations on 17th September 2004.",
       photosFolderName: "anniversary6",
     },
     photos: [
@@ -309,7 +311,7 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri Y. Venkata Reddy garu",
+      guestName: "Chartered Accountant",
       date: "October, 2004",
       description:
         "Sri Venkata Reddy Yennam (Grad C.W.A., F.C.A., DISA (ICAI), Venkata Reddy & CO Chartered Accountants, Guntur) visited our institute to present trophies to the winners of 2004 September and October months exams.",
@@ -353,7 +355,28 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri P. Rambabu garu",
+      guestName: "Asst. Professor, RVR & JC College",
+      date: "November, 2004",
+      description:
+        "Dr. Chandramouli, Assistant Professsor, Civil Engineering, RVR & JC College Engineering, Chowdavaram, Guntur",
+      photosFolderName: "chandramouli",
+    },
+    photos: [
+      { file: "1.jpg", caption: "Director Speech" },
+      { file: "2.jpg", caption: "Speech by Guest" },
+      { file: "3.jpg", caption: "J. Eswar (Adobe Photoshop CS)" },
+      { file: "4.jpg", caption: "K. Anuradha Devi (Adobe PageMaker 7.0.1)" },
+      {
+        file: "5.jpg",
+        caption: "Ch. Venkata Krishna (Microsoft Office Excel 2003)",
+      },
+      { file: "6.jpg", caption: "Students" },
+      { file: "7.jpg", caption: "OSS Books presented to Guest" },
+    ],
+  },
+  {
+    details: {
+      guestName: "OSS Website inauguration",
       date: "December, 2004",
       description:
         "Physical Education Trainer, Government Polytechnical College, Ongole",
@@ -368,7 +391,7 @@ const photos = [
       { file: "3.jpg", caption: "B. Sarala - First Prize in Photoshop CS" },
       {
         file: "4.jpg",
-        caption: "B. Purna Srikanth - First Prize in Adobe PageMaker 7.0.1",
+        caption: "B. Purna Srinath - First Prize in Adobe PageMaker 7.0.1",
       },
       {
         file: "5.jpg",
@@ -384,14 +407,14 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri Ram Kumar garu",
-      date: "Jan, 2005",
+      guestName: "Proprietor, Sri Sai Graphics",
+      date: "January, 2005",
       description:
         "Sri V. Ram Kumar, Proprietor, Sri Sai Graphics, Guntur, visited our institute to present trophies to the winners of January month exams.",
       photosFolderName: "ramkumar",
     },
     photos: [
-      { file: "1.jpg", caption: "Speech by Chief Guest Sri Ram Kumar garu" },
+      { file: "1.jpg", caption: "Speech by Chief Guest Sri Ram Kumar" },
       { file: "2.jpg", caption: "B. Bennimma - First Prize in CorelDRAW " },
       { file: "3.jpg", caption: "K. Srinivas - First Prize in CorelDRAW 12" },
       {
@@ -416,7 +439,7 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri P.J. Samuel garu",
+      guestName: "Proprietor, Shrushtee Graphics",
       date: "February, 2005",
       description:
         "Sri P.J. Samuel, Proprietor, Shrushtee Graphics, Guntur, visited our institute to present trophies to the winners of February month exams.",
@@ -452,7 +475,7 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri Kishore garu",
+      guestName: "Proprietor, Raja Rajeswari Graphics",
       date: "March, 2005",
       description:
         "Sri Kishore, Proprietor, Raja Rajeswary Graphics, Guntur, visited our institute to present trophies to the winners of March month exams.",
@@ -481,7 +504,7 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri Gopi Chand garu",
+      guestName: "Principal, Satya Sai Degree College",
       date: "April, 2005",
       description:
         "Sri Gopichand, Principal, Sri Satya Sai Degree College, Tadikonda, visited our institute to present trophies to the winners of April month exams.",
@@ -501,10 +524,10 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri Creative Prasad garu",
+      guestName: "Proprietor, Creative Graphics",
       date: "May, 2005",
       description:
-        "Sri Creative Prasad, Proprietor, Creative Graphics, visited our institute to present trophies to the winners of May month exams.",
+        "Sri Prasad, Proprietor, Creative Graphics, visited our institute to present trophies to the winners of May month exams.",
       photosFolderName: "prasadcre",
     },
     photos: [
@@ -517,10 +540,10 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri G. Prasad garu",
+      guestName: "Asst. Registrar, Nagarjuna University",
       date: "May, 2006",
       description:
-        "Prof. G. Prasad (Asst. Registrar, Acharya Nagarjunja University, Nagarjuna Nagar, Guntur) visited our institute to present trophies to the winners of May month exams.",
+        "Prof. G. Prasad, Asst. Registrar, Acharya Nagarjunja University, Nagarjuna Nagar, Guntur, visited our institute to present trophies to the winners of May month exams.",
       photosFolderName: "prasadg",
     },
     photos: [
@@ -535,10 +558,10 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri Kanna Reddy garu",
+      guestName: "Director and Correspondent",
       date: "July, 2006",
       description:
-        "Sri Kanna Reddy (Principal, Rama Krishna Residential College, Gujjangundla, Guntur) visited our institute to present trophies to the winners of July month exams.",
+        "Sri Kanna Reddy, Director and Correspondent, Rama Krishna Residential College, Gujjangundla, Guntur, visited our institute to present trophies to the winners of July month exams.",
       photosFolderName: "kannareddy",
     },
     photos: [
@@ -558,45 +581,29 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri Chaitanya and Bhaskar garu",
-      description: "Proprietors, Prajavani Graphics, 2/5, Brodipet, Guntur",
-      photosFolderName: "chaitanya",
+      guestName: "School Master",
+      date: "June, 2008",
+      description:
+        "Sri K. Venkata Rao, M.A., M.Li.Sc., B.Ed., School, visited our institute to present trophies to the winners of 2008 May month exams",
+      photosFolderName: "venkatarao",
     },
     photos: [
-      { file: "1.jpg", caption: "Director Speech" },
-      { file: "2.jpg", caption: "Guest Speech" },
+      { file: "1.jpg", caption: "Guest Speech" },
+      { file: "2.jpg", caption: "#" },
       { file: "3.jpg", caption: "#" },
       { file: "4.jpg", caption: "#" },
       { file: "5.jpg", caption: "#" },
       { file: "6.jpg", caption: "#" },
-      { file: "7.jpg", caption: "Students" },
-      { file: "8.jpg", caption: "Momento to Guests" },
+      { file: "7.jpg", caption: "#" },
+      { file: "8.jpg", caption: "#" },
+      { file: "9.jpg", caption: "#" },
+      { file: "10.jpg", caption: "Students" },
+      { file: "11.jpg", caption: "A Momento to Guest" },
     ],
   },
   {
     details: {
-      guestName: "Sri K. Chandramouli garu",
-      date: "November, 2004",
-      description:
-        "Assistant Professsor, Civil Engineering, RVR & JC College Engineering, Chowdavaram, Guntur",
-      photosFolderName: "chandramouli",
-    },
-    photos: [
-      { file: "1.jpg", caption: "Director Speech" },
-      { file: "2.jpg", caption: "Speech by Guest" },
-      { file: "3.jpg", caption: "J. Eswar (Adobe Photoshop CS)" },
-      { file: "4.jpg", caption: "K. Anuradha Devi (Adobe PageMaker 7.0.1)" },
-      {
-        file: "5.jpg",
-        caption: "Ch. Venkata Krishna (Microsoft Office Excel 2003)",
-      },
-      { file: "6.jpg", caption: "Students" },
-      { file: "7.jpg", caption: "OSS Books presented to Guest" },
-    ],
-  },
-  {
-    details: {
-      guestName: "Dr. G. Ranga Rao garu",
+      guestName: "10th Anniversary Celebrations",
       date: "20th November, 2008",
       description: "Retired Director, Bharat Scouts and Guides, New Delhi",
       photosFolderName: "anniversary10",
@@ -605,8 +612,7 @@ const photos = [
       { file: "1.jpg", caption: "Speech by Chief Guest" },
       {
         file: "2.jpg",
-        caption:
-          "Projector Class inauguration by Chief Guest Dr. Ranga Rao garu",
+        caption: "Projector Class inauguration by Chief Guest Dr. Ranga Rao",
       },
       { file: "3.jpg", caption: "J. Speech by Director" },
       { file: "4.jpg", caption: "#" },
@@ -625,8 +631,27 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri Lanka Pavan Kumar garu",
-      description: "Software Engineer, Apple, California, USA",
+      guestName: "Proprietor, Prajavani Graphics",
+      description:
+        "Sri Chaitanya and Sri Bhaskar, Proprietors, Prajavani Graphics, 2/5, Brodipet, Guntur",
+      photosFolderName: "chaitanya",
+    },
+    photos: [
+      { file: "1.jpg", caption: "Director Speech" },
+      { file: "2.jpg", caption: "Guest Speech" },
+      { file: "3.jpg", caption: "#" },
+      { file: "4.jpg", caption: "#" },
+      { file: "5.jpg", caption: "#" },
+      { file: "6.jpg", caption: "#" },
+      { file: "7.jpg", caption: "Students" },
+      { file: "8.jpg", caption: "Momento to Guests" },
+    ],
+  },
+  {
+    details: {
+      guestName: "Senior Software Engineer",
+      description:
+        "L. Pavan Kumar garu, Senior Software Engineer, Apple, California, USA",
       photosFolderName: "pavan",
     },
     photos: [
@@ -642,8 +667,8 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri Prasad garu",
-      description: "Retired Marketing Executive",
+      guestName: "Marketing Executive",
+      description: "Sri Prasad, Marketing Executive",
       photosFolderName: "prasadexe",
     },
     photos: [
@@ -654,10 +679,10 @@ const photos = [
         caption: "Prasad, Principal, IIT College, Kannavarithota, Guntur",
       },
       { file: "4.jpg", caption: "B. Pavani" },
-      { file: "5.jpg", caption: "B. Pavani (getting one more prize)" },
+      { file: "5.jpg", caption: "B. Pavani, getting one more prize" },
       {
         file: "6.jpg",
-        caption: "B. Pavani (A special prize by Hon'ble Guest Prasad garu ",
+        caption: "B. Pavani, A special prize by Hon'ble Guest Prasad garu ",
       },
       { file: "7.jpg", caption: "Vidya, Instructor, OSS Computers" },
       { file: "8.jpg", caption: "#" },
@@ -670,8 +695,9 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri Punna Reddy garu",
-      description: "Retired Mandal Development Officer",
+      guestName: "Mandal Development Officer",
+      description:
+        "Sri Punna Reddy, Retired Mandal Development Officer, Pittalavari Palem",
       photosFolderName: "punnareddy",
     },
     photos: [
@@ -686,8 +712,8 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri Ramesh garu",
-      description: "Marketing Executive",
+      guestName: "Marketing Executive, Ranbaxy",
+      description: "Sri Ramesh, Marketing Executive, Ranbaxy",
       photosFolderName: "ramesh",
     },
     photos: [
@@ -720,8 +746,9 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri Naveen garu",
-      description: "Head of the Department, T.J.P.S. College, Guntur,",
+      guestName: "HOD, TJPS College",
+      description:
+        "Sri Naveen, Head of the Department, T.J.P.S. College, Guntur,",
       photosFolderName: "naveen",
     },
     photos: [
@@ -760,8 +787,8 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri Bhaskar garu",
-      description: "Principal, GSR Junior College, Guntur",
+      guestName: "Principal, GSR Junior College",
+      description: "Sri Bhaskar, Principal, GSR Junior College, Guntur",
       photosFolderName: "bhaskar",
     },
     photos: [
@@ -789,29 +816,9 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri Venkata Rao garu",
-      date: "June, 2008",
-      description: "Master",
-      photosFolderName: "venkatarao",
-    },
-    photos: [
-      { file: "1.jpg", caption: "Guest Speech" },
-      { file: "2.jpg", caption: "#" },
-      { file: "3.jpg", caption: "#" },
-      { file: "4.jpg", caption: "#" },
-      { file: "5.jpg", caption: "#" },
-      { file: "6.jpg", caption: "#" },
-      { file: "7.jpg", caption: "#" },
-      { file: "8.jpg", caption: "#" },
-      { file: "9.jpg", caption: "#" },
-      { file: "10.jpg", caption: "Students" },
-      { file: "11.jpg", caption: "A Momento to Guest" },
-    ],
-  },
-  {
-    details: {
-      guestName: "Sri Koteswara Rao garu",
-      description: "Principal, Siva Electronics, 4/9, Bradipet, Guntur",
+      guestName: "Principal, Siva Electronics",
+      description:
+        "Sri Koteswara Rao, Principal, Siva Electronics, 4/9, Bradipet, Guntur, visited our institute to present trophies to the winners",
       photosFolderName: "koteswararaosiva",
     },
     photos: [
@@ -831,9 +838,9 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri Desu Sridhar garu",
+      guestName: "Share Marketing Consultant",
       description:
-        "Proprietor, Share Marketing Center, 5/1, Arundelpet, Guntur",
+        "Sri Desu Sridhar, Proprietor, Share Marketing Center, 5/1, Arundelpet, Guntur",
       photosFolderName: "sridhar",
     },
     photos: [
@@ -852,9 +859,9 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri Sudhakar garu",
+      guestName: "Assistant Manager, SBT",
       description:
-        "Assistant Manager, State Bank of Travencore, Old Club Road, Guntur",
+        "Sri M. Sudhakar, Assistant Manager, State Bank of Travencore, Old Club Road, Guntur",
       photosFolderName: "sudhakar",
     },
     photos: [
@@ -871,8 +878,9 @@ const photos = [
   },
   {
     details: {
-      guestName: "Sri Yella Reddy garu",
-      description: "Public Health Officer, Municipal Corporation, Guntur",
+      guestName: "Public Health Officer",
+      description:
+        "Sri Yella Reddy, Public Health Officer, Municipal Corporation, Guntur",
       photosFolderName: "yellareddy",
     },
     photos: [
@@ -886,9 +894,9 @@ const photos = [
   },
   {
     details: {
-      guestName: "Tabitha garu",
+      guestName: "Gold Medalist, IGNO University",
       description:
-        "1st Rank Holder from IGNO University and get the Prize from India Vice-President",
+        "Tabitha garu, 1st Rank Holder from IGNO University and got the Prize from India Vice-President",
       photosFolderName: "tabitha",
     },
     photos: [
@@ -900,7 +908,10 @@ const photos = [
       { file: "6.jpg", caption: "#" },
       { file: "7.jpg", caption: "#" },
       { file: "8.jpg", caption: "#" },
-      { file: "9.jpg", caption: "A momento to Guest" },
+      { file: "9.jpg", caption: "#" },
+      { file: "10.jpg", caption: "#" },
+      { file: "11.jpg", caption: "#" },
+      { file: "12.jpg", caption: "A momento to Guest" },
     ],
   },
 ];

@@ -1,7 +1,9 @@
 const photos = [
   {
     details: {
-      guestName: "5th Anniversary Celebrations",
+      event: "5th Anniversary Celebrations",
+      guestName: "Sri M. Appi Reddy",
+      designation: "District Employment Officer, Guntur",
       date: "18th August, 2003",
       description:
         "Sri Appi Reddy, District Employment Officer, Guntur came for 5th Anniversary Celebrations on 18th August 2003.",
@@ -41,10 +43,11 @@ const photos = [
   },
   {
     details: {
-      guestName: "Lecturer, J.K.C. College",
-      date: "October, 2003",
+      guestName: "Sri P. Sambasiva Rao",
+      designation: "Lecturer, J.K.C. College",
+      date: "September, 2003",
       description:
-        "Sri Pulicherla Sambasiva Rao, Lecturer, J.K.C. College, Guntur, visited our institute to present trophies to the winners of August 2003 month exams.",
+        "Sri Pulicherla Sambasiva Rao, Lecturer, J.K.C. College, Guntur, visited our institute to present trophies to the winners of 2003 September month exams.",
       photosFolderName: "sambasivarao",
     },
     photos: [
@@ -61,10 +64,11 @@ const photos = [
   },
   {
     details: {
-      guestName: "HOD, A.C. College",
-      date: "September, 2003",
+      guestName: "Sri Sanjiva Rao",
+      designation: "Head of the Department, A.C. College",
+      date: "October, 2003",
       description:
-        "Sri Sanjiva Rao, Retired Head of the Department, Mathematics, AC College, Guntur, visited our institute to present trophies to the winners of September month exams.",
+        "Sri Sanjiva Rao, Retired Head of the Department, Mathematics, AC College, Guntur, visited our institute to present trophies to the winners of 2003 October month exams.",
       photosFolderName: "sanjivarao",
     },
     photos: [
@@ -85,10 +89,11 @@ const photos = [
   },
   {
     details: {
-      guestName: "Proprietor, Suchitra Graphics",
+      guestName: "Sri Suchitra Srinivas",
+      designation: "Proprietor, Suchitra Graphics",
       date: "November, 2003",
       description:
-        "Sri Suchitra Srinivas, Suchitra Graphics, 2/3, Brodipet, Guntur, visited our institute to present trophies to the winners of November 2003 month exams.",
+        "Sri Suchitra Srinivas, Suchitra Graphics, 2/3, Brodipet, Guntur, visited our institute to present trophies to the winners of 2003 November month exams.",
       photosFolderName: "srinivassuc",
     },
     photos: [
@@ -116,10 +121,11 @@ const photos = [
   },
   {
     details: {
-      guestName: "Proprietor, Sudharsan Printers",
+      guestName: "Sri Sudharsan Srinivas",
+      designation: "Proprietor, Sudharsan Printers",
       date: "December, 2003",
       description:
-        "Mr. & Mrs. Sudharsan Srinivas, Sudharsan Printers & Graphics, Guntur, visited our institute to present trophies to the winners of December month exams.",
+        "Mr. & Mrs. Sudharsan Srinivas, Sudharsan Printers & Graphics, Guntur, visited our institute to present trophies to the winners of 2003 December month exams.",
       photosFolderName: "srinivassud",
     },
     photos: [
@@ -145,7 +151,9 @@ const photos = [
   },
   {
     details: {
-      guestName: "OSS Nilayam inauguration",
+      event: "OSS Nilayam inauguration",
+      guestName: "Dr. L. Janardhana Rao & Mrs. L. Vanajakshi",
+      designation: "Reader, Nagarjuna University & Lecturer, BH College",
       date: "9th March, 2004",
       description:
         "Mr. & Mrs. Janardhana Rao Lanka inagurated our new building, OSS Nilayam.",
@@ -181,10 +189,11 @@ const photos = [
   },
   {
     details: {
-      guestName: "Proprieter, Sri Lakshmi Press",
+      guestName: "Sri K. Brahmaiah",
+      designation: "Proprieter, Sri Lakshmi Press",
       date: "June, 2004",
       description:
-        "Sri Katragadda Brahmaiah, Proprietor, Sri Lakshmi Press, Guntur, visited our institute to present trophies to the winners of April month exams.",
+        "Sri Katragadda Brahmaiah, Proprietor, Sri Lakshmi Press, Guntur, visited our institute to present trophies to the winners of 2004 May and June  months exams.",
       photosFolderName: "brahmaiah",
     },
     photos: [
@@ -229,10 +238,11 @@ const photos = [
   },
   {
     details: {
-      guestName: "Hardware Engineer",
-      date: "June, 2004",
+      guestName: "Sri P. Koteswara Rao",
+      designation: "Hardware Engineer",
+      date: "July, 2004",
       description:
-        "Sri Polisetty Koteswara Rao, Hardware Engineer, visited our institute to present trophies to the winners of June month exams.",
+        "Sri Polisetty Koteswara Rao, Hardware Engineer, visited our institute to present trophies to the winners of July month exams.",
       photosFolderName: "koteswararaohar",
     },
     photos: [
@@ -250,10 +260,12 @@ const photos = [
   },
   {
     details: {
-      guestName: "6th Anniversary Celebrations",
-      date: "18th August, 2004",
+      event: "6th Anniversary Celebrations",
+      guestName: "Sri S.S.R. Anjaneyulu",
+      designation: "Proprietor, Citizens Printers",
+      date: "17th September, 2004",
       description:
-        "Sri S.S.R. Anjaneyulu, Proprietor, Citizens Printers, Guntur, came for 6th Anniversary Celebrations on 17th September 2004.",
+        "Sri S.S.R. Anjaneyulu, Proprietor, Citizens Printers, Guntur, came for 6th Anniversary Celebrations on 17th September, 2004 and present the trophies to the winners 2004 August and September months exams",
       photosFolderName: "anniversary6",
     },
     photos: [
@@ -311,10 +323,11 @@ const photos = [
   },
   {
     details: {
-      guestName: "Chartered Accountant",
+      guestName: "Sri Venkata Reddy Yennam",
+      designation: "Chartered Accountant",
       date: "October, 2004",
       description:
-        "Sri Venkata Reddy Yennam (Grad C.W.A., F.C.A., DISA (ICAI), Venkata Reddy & CO Chartered Accountants, Guntur) visited our institute to present trophies to the winners of 2004 September and October months exams.",
+        "Sri Venkata Reddy Yennam (Grad C.W.A., F.C.A., DISA (ICAI), Venkata Reddy & CO Chartered Accountants, Guntur) visited our institute to present trophies to the winners of 2004 October month exams.",
       photosFolderName: "venkatareddy",
     },
     photos: [
@@ -355,10 +368,11 @@ const photos = [
   },
   {
     details: {
-      guestName: "Asst. Professor, RVR & JC College",
+      guestName: "Dr. Chandramouli",
+      designation: "Asst. Professor, RVR & JC College",
       date: "November, 2004",
       description:
-        "Dr. Chandramouli, Assistant Professsor, Civil Engineering, RVR & JC College Engineering, Chowdavaram, Guntur",
+        "Dr. Chandramouli, Assistant Professsor, Civil Engineering, RVR & JC College Engineering, Chowdavaram, Guntur, visited our institute to present trophies to the winners of November, 2004 exams",
       photosFolderName: "chandramouli",
     },
     photos: [
@@ -376,10 +390,12 @@ const photos = [
   },
   {
     details: {
-      guestName: "OSS Website inauguration",
+      event: "OSS Website inauguration",
+      guestName: "Sri P. Rambabu",
+      designation: "Physical Education Trainer",
       date: "December, 2004",
       description:
-        "Physical Education Trainer, Government Polytechnical College, Ongole",
+        "Physical Education Trainer, Government Polytechnical College, Ongole, visited our institute to present trophies to the winners of December, 2004 exams",
       photosFolderName: "rambabu",
     },
     photos: [
@@ -407,10 +423,11 @@ const photos = [
   },
   {
     details: {
-      guestName: "Proprietor, Sri Sai Graphics",
+      guestName: "Sri V. Ram Kumar",
+      designation: "Proprietor, Sri Sai Graphics",
       date: "January, 2005",
       description:
-        "Sri V. Ram Kumar, Proprietor, Sri Sai Graphics, Guntur, visited our institute to present trophies to the winners of January month exams.",
+        "Sri V. Ram Kumar, Proprietor, Sri Sai Graphics, Guntur, visited our institute to present trophies to the winners of January 2005 month exams.",
       photosFolderName: "ramkumar",
     },
     photos: [
@@ -439,7 +456,8 @@ const photos = [
   },
   {
     details: {
-      guestName: "Proprietor, Shrushtee Graphics",
+      guestName: "Sri P.J. Samuel",
+      designation: "Proprietor, Shrushtee Graphics",
       date: "February, 2005",
       description:
         "Sri P.J. Samuel, Proprietor, Shrushtee Graphics, Guntur, visited our institute to present trophies to the winners of February month exams.",
@@ -475,7 +493,8 @@ const photos = [
   },
   {
     details: {
-      guestName: "Proprietor, Raja Rajeswari Graphics",
+      guestName: "Sri Kishore",
+      designation: "Proprietor, Raja Rajeswari Graphics",
       date: "March, 2005",
       description:
         "Sri Kishore, Proprietor, Raja Rajeswary Graphics, Guntur, visited our institute to present trophies to the winners of March month exams.",
@@ -504,10 +523,11 @@ const photos = [
   },
   {
     details: {
-      guestName: "Principal, Satya Sai Degree College",
+      guestName: "Sri Gopichand",
+      designation: "Principal, Satya Sai Degree College",
       date: "April, 2005",
       description:
-        "Sri Gopichand, Principal, Sri Satya Sai Degree College, Tadikonda, visited our institute to present trophies to the winners of April month exams.",
+        "Sri Gopichand, Principal, Sri Satya Sai Degree College, Tadikonda, visited our institute to present trophies to the winners of 2005 April month exams.",
       photosFolderName: "gopichand",
     },
     photos: [
@@ -524,10 +544,11 @@ const photos = [
   },
   {
     details: {
-      guestName: "Proprietor, Creative Graphics",
+      guestName: "Sri Durga Prasad",
+      designation: "Proprietor, Creative Graphics",
       date: "May, 2005",
       description:
-        "Sri Prasad, Proprietor, Creative Graphics, visited our institute to present trophies to the winners of May month exams.",
+        "Sri Prasad, Proprietor, Creative Graphics, visited our institute to present trophies to the winners of 2005 May month exams.",
       photosFolderName: "prasadcre",
     },
     photos: [
@@ -540,10 +561,11 @@ const photos = [
   },
   {
     details: {
-      guestName: "Asst. Registrar, Nagarjuna University",
+      guestName: "Prof. G. Prasad",
+      designation: "Asst. Registrar, Nagarjuna University",
       date: "May, 2006",
       description:
-        "Prof. G. Prasad, Asst. Registrar, Acharya Nagarjunja University, Nagarjuna Nagar, Guntur, visited our institute to present trophies to the winners of May month exams.",
+        "Prof. G. Prasad, Asst. Registrar, Acharya Nagarjunja University, Nagarjuna Nagar, Guntur, visited our institute to present trophies to the winners of 2006 May month exams.",
       photosFolderName: "prasadg",
     },
     photos: [
@@ -558,10 +580,11 @@ const photos = [
   },
   {
     details: {
-      guestName: "Director and Correspondent",
+      guestName: "Sri Kanna Reddy",
+      designation: "Director and Correspondent",
       date: "July, 2006",
       description:
-        "Sri Kanna Reddy, Director and Correspondent, Rama Krishna Residential College, Gujjangundla, Guntur, visited our institute to present trophies to the winners of July month exams.",
+        "Sri Kanna Reddy, Director and Correspondent, Rama Krishna Residential College, Gujjangundla, Guntur, visited our institute to present trophies to the winners of 2006 July month exams.",
       photosFolderName: "kannareddy",
     },
     photos: [
@@ -581,10 +604,11 @@ const photos = [
   },
   {
     details: {
-      guestName: "School Master",
+      guestName: "Sri K. Venkata Rao",
+      designation: "School Master",
       date: "June, 2008",
       description:
-        "Sri K. Venkata Rao, M.A., M.Li.Sc., B.Ed., School, visited our institute to present trophies to the winners of 2008 May month exams",
+        "Sri K. Venkata Rao, M.A., M.Li.Sc., B.Ed., School, visited our institute to present trophies to the winners of 2008 June month exams",
       photosFolderName: "venkatarao",
     },
     photos: [
@@ -603,9 +627,12 @@ const photos = [
   },
   {
     details: {
-      guestName: "10th Anniversary Celebrations",
+      event: "10th Anniversary Celebrations",
+      guestName: "Dr. G. Ranga Rao",
+      designation: "Rtd. Director, Bharat Scouts and Guides",
       date: "20th November, 2008",
-      description: "Retired Director, Bharat Scouts and Guides, New Delhi",
+      description:
+        "Retired Director, Bharat Scouts and Guides, New Delhi, visited the 10th Anniversary Celebrations",
       photosFolderName: "anniversary10",
     },
     photos: [
@@ -631,9 +658,10 @@ const photos = [
   },
   {
     details: {
-      guestName: "Proprietor, Prajavani Graphics",
+      guestName: "Sri Chaitanya and Sri Bhaskar",
+      designation: "Proprietors, Prajavani Graphics",
       description:
-        "Sri Chaitanya and Sri Bhaskar, Proprietors, Prajavani Graphics, 2/5, Brodipet, Guntur",
+        "Sri Chaitanya and Sri Bhaskar, Proprietors, Prajavani Graphics, 2/5, Brodipet, Guntur, visited our institute to present trophies to the winners",
       photosFolderName: "chaitanya",
     },
     photos: [
@@ -649,9 +677,10 @@ const photos = [
   },
   {
     details: {
-      guestName: "Senior Software Engineer",
+      guestName: "L. Pavan Kumar garu",
+      designation: "Senior Software Engineer",
       description:
-        "L. Pavan Kumar garu, Senior Software Engineer, Apple, California, USA",
+        "L. Pavan Kumar garu, Senior Software Engineer, Apple, California, USA, visited our institute to present trophies to the winners",
       photosFolderName: "pavan",
     },
     photos: [
@@ -667,8 +696,10 @@ const photos = [
   },
   {
     details: {
-      guestName: "Marketing Executive",
-      description: "Sri Prasad, Marketing Executive",
+      guestName: "Sri Prasad",
+      designation: "Marketing Executive",
+      description:
+        "Sri Prasad, Marketing Executive, visited our institute to present trophies to the winners",
       photosFolderName: "prasadexe",
     },
     photos: [
@@ -695,9 +726,10 @@ const photos = [
   },
   {
     details: {
-      guestName: "Mandal Development Officer",
+      guestName: "Sri J. Punna Reddy",
+      designation: "Mandal Development Officer",
       description:
-        "Sri Punna Reddy, Retired Mandal Development Officer, Pittalavari Palem",
+        "Sri Punna Reddy, Retired Mandal Development Officer, Pittalavari Palem, visited our institute to present trophies to the winners",
       photosFolderName: "punnareddy",
     },
     photos: [
@@ -712,8 +744,10 @@ const photos = [
   },
   {
     details: {
-      guestName: "Marketing Executive, Ranbaxy",
-      description: "Sri Ramesh, Marketing Executive, Ranbaxy",
+      guestName: "Sri Ramesh",
+      designation: "Marketing Executive, Ranbaxy",
+      description:
+        "Sri Ramesh, Marketing Executive, Ranbaxy, visited our institute to present trophies to the winners",
       photosFolderName: "ramesh",
     },
     photos: [
@@ -727,7 +761,9 @@ const photos = [
   {
     details: {
       guestName: "Ramesh garu",
-      description: "Ready to go MS studies in Australia, ",
+      designation: "MS Student in Australia",
+      description:
+        "Got seat in Australia to study MS, visited our institute to present trophies to the winners ",
       photosFolderName: "rameshaus",
     },
     photos: [
@@ -746,9 +782,10 @@ const photos = [
   },
   {
     details: {
-      guestName: "HOD, TJPS College",
+      guestName: "Sri Naveen",
+      designation: "Head of the Department, TJPS College",
       description:
-        "Sri Naveen, Head of the Department, T.J.P.S. College, Guntur,",
+        "Sri Naveen, Head of the Department, T.J.P.S. College, Guntur, visited our institute to present trophies to the winners",
       photosFolderName: "naveen",
     },
     photos: [
@@ -787,8 +824,10 @@ const photos = [
   },
   {
     details: {
-      guestName: "Principal, GSR Junior College",
-      description: "Sri Bhaskar, Principal, GSR Junior College, Guntur",
+      guestName: "Sri Bhaskar",
+      designation: "Principal, GSR Junior College",
+      description:
+        "Sri Bhaskar, Principal, GSR Junior College, Guntur, visited our institute to present trophies to the winners",
       photosFolderName: "bhaskar",
     },
     photos: [
@@ -816,7 +855,8 @@ const photos = [
   },
   {
     details: {
-      guestName: "Principal, Siva Electronics",
+      guestName: "Sri Koteswara Rao",
+      designation: "Principal, Siva Electronics",
       description:
         "Sri Koteswara Rao, Principal, Siva Electronics, 4/9, Bradipet, Guntur, visited our institute to present trophies to the winners",
       photosFolderName: "koteswararaosiva",
@@ -838,9 +878,10 @@ const photos = [
   },
   {
     details: {
-      guestName: "Share Marketing Consultant",
+      guestName: "Sri Desu Sridhar",
+      designation: "Share Marketing Consultant",
       description:
-        "Sri Desu Sridhar, Proprietor, Share Marketing Center, 5/1, Arundelpet, Guntur",
+        "Sri Desu Sridhar, Proprietor, Share Marketing Center, 5/1, Arundelpet, Guntur, visited our institute to present trophies to the winners",
       photosFolderName: "sridhar",
     },
     photos: [
@@ -859,9 +900,10 @@ const photos = [
   },
   {
     details: {
-      guestName: "Assistant Manager, SBT",
+      guestName: "Sri M. Sudhakar",
+      designation: "Assistant Manager, SBT",
       description:
-        "Sri M. Sudhakar, Assistant Manager, State Bank of Travencore, Old Club Road, Guntur",
+        "Sri M. Sudhakar, Assistant Manager, State Bank of Travencore, Old Club Road, Guntur, visited our institute to present trophies to the winners",
       photosFolderName: "sudhakar",
     },
     photos: [
@@ -878,9 +920,10 @@ const photos = [
   },
   {
     details: {
-      guestName: "Public Health Officer",
+      guestName: "Sri Yella Reddy",
+      designation: "Public Health Officer",
       description:
-        "Sri Yella Reddy, Public Health Officer, Municipal Corporation, Guntur",
+        "Sri Yella Reddy, Public Health Officer, Municipal Corporation, Guntur, visited our institute to present trophies to the winners",
       photosFolderName: "yellareddy",
     },
     photos: [
@@ -894,9 +937,10 @@ const photos = [
   },
   {
     details: {
-      guestName: "Gold Medalist, IGNO University",
+      guestName: "Tabitha garu",
+      designation: "Gold Medalist, IGNO University",
       description:
-        "Tabitha garu, 1st Rank Holder from IGNO University and got the Prize from India Vice-President",
+        "Tabitha garu, 1st Rank Holder from IGNO University and got the Prize from India Vice-President, visited our institute to present trophies to the winners",
       photosFolderName: "tabitha",
     },
     photos: [

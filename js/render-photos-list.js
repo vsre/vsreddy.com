@@ -41,12 +41,16 @@ function getLinkText(details) {
 
   // For separator
   if (linkText.length > 0) {
-    linkText += " - ";
+    linkText += " - <br /> ";
   }
 
   // For Guest Name
   if (details.guestName) {
     linkText += details.guestName;
+  }
+  // For Guest Name
+  if (details.designation) {
+    linkText += " <br /> <h6> " + details.designation + "</h6>";
   }
 
   // // For date

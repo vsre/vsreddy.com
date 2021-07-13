@@ -131,7 +131,8 @@ const photos = [
     photos: [
       {
         file: "1.jpg",
-        caption: "T. Rajesh - First Prize in Adobe Photoshop 7",
+        caption:
+          "M.V.V.N. Pavan Kumar - First Prize in Microsoft Office Word 2002",
       },
       {
         file: "2.jpg",
@@ -139,8 +140,7 @@ const photos = [
       },
       {
         file: "3.jpg",
-        caption:
-          "M.V.V.N. Pavan Kumar - First Prize in Microsoft Office Word 2002",
+        caption: "T. Rajesh - First Prize in Adobe Photoshop 7",
       },
       { file: "4.jpg", caption: "V. Anil Kumar - First Prize in CorelDRAW 11" },
       {

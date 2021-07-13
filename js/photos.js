@@ -93,7 +93,7 @@ const photos = [
       designation: "Proprietor, Suchitra Graphics",
       date: "November, 2003",
       description:
-        "Sri Suchitra Srinivas, Suchitra Graphics, 2/3, Brodipet, Guntur, visited our institute to present trophies to the winners of 2003 November month exams.",
+        "Suchitra Srinivas is an unprecedented personality in the galaxy of the universal teachers of Photoshop and his unimaginable images that were kept inside the gallery of our computers with his golden brush that can be compared to that of Vaddadi Papaiah could make OSS manage to learn and earn the latest teaching methods and introduce exuberant neo rich talents to the world of colours.(Sri Suchitra Srinivas, Suchitra Graphics, 2/3, Brodipet, Guntur, visited our institute to present trophies to the winners of 2003 November month exams.)",
       photosFolderName: "srinivassuc",
     },
     photos: [
@@ -125,7 +125,7 @@ const photos = [
       designation: "Proprietor, Sudharsan Printers",
       date: "December, 2003",
       description:
-        "Mr. & Mrs. Sudharsan Srinivas, Sudharsan Printers & Graphics, Guntur, visited our institute to present trophies to the winners of 2003 December month exams.",
+        "We always deem it our duty to keep in consciousness and express our gratitude to Sri Sudarsan Srinivas garu for the  countless suggestions and the financial support rendered by him in the absence of  which OSS could not have reached the present place and bagged valuable feathers in its Crown of Development. (Mr. & Mrs. Sudharsan Srinivas, Sudharsan Printers & Graphics, Guntur, visited our institute to present trophies to the winners of 2003 December month exams.)",
       photosFolderName: "srinivassud",
     },
     photos: [
@@ -327,7 +327,7 @@ const photos = [
       designation: "Chartered Accountant",
       date: "October, 2004",
       description:
-        "Sri Venkata Reddy Yennam (Grad C.W.A., F.C.A., DISA (ICAI), Venkata Reddy & CO Chartered Accountants, Guntur) visited our institute to present trophies to the winners of 2004 October month exams.",
+        "We cannot erase from our mind the advocacy and the timely gesticulations rendered to our family of OSS by Sri Y. Venkata Reddy, Chartered Accountant, and our family friend and well-wisher so as to enable us to shun different problems that cropped in our organisation. (Sri Venkata Reddy Yennam (Grad C.W.A., F.C.A., DISA (ICAI), Venkata Reddy & CO Chartered Accountants, Guntur) visited our institute to present trophies to the winners of 2004 October month exams.)",
       photosFolderName: "venkatareddy",
     },
     photos: [
@@ -548,7 +548,7 @@ const photos = [
       designation: "Proprietor, Creative Graphics",
       date: "May, 2005",
       description:
-        "Sri Prasad, Proprietor, Creative Graphics, visited our institute to present trophies to the winners of 2005 May month exams.",
+        "We do not have words or sentences to express our surprise than to simply find the Inventor of Inventions (Srusthi Kartha – Brahma) who offered life to umpteen number of designs and it may not be out of place if I mention here that this Inventor confused the truth finders to differentiate between the images drawn by him using the Corel Draw and a life-bearing entity if both are kept next to each other. (Sri Durga Prasad, Proprietor, Creative Graphics, visited our institute to present trophies to the winners of 2005 May month exams.)",
       photosFolderName: "prasadcre",
     },
     photos: [

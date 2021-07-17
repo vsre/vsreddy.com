@@ -6,7 +6,7 @@ const photos = [
       designation: "District Employment Officer, Guntur",
       date: "18th August, 2003",
       description:
-        "Sri Appi Reddy, District Employment Officer, Guntur came for 5th Anniversary Celebrations on 18th August 2003.",
+        "Sri M. Appi Reddy, District Employment Officer, Guntur came for 5th Anniversary Celebrations on 18th August 2003. (శ్రీ అప్పిరెడ్డిగారు, OSS ను స్థాపించిన 5 సంవత్సరాలకే ఇన్సిట్యూట్ లో ఇచ్చే సర్టిఫికెట్లను గుంటూరు ఎంప్లాయ్మెంటు ఆఫీసులో రిజిష్టరు చేయించుకొనే వీలు కల్పించినారు.)",
       photosFolderName: "anniversary5",
     },
     photos: [
@@ -47,7 +47,7 @@ const photos = [
       designation: "Lecturer, J.K.C. College",
       date: "September, 2003",
       description:
-        "Sri Pulicherla Sambasiva Rao, Lecturer, J.K.C. College, Guntur, visited our institute to present trophies to the winners of 2003 September month exams.",
+        "Sri Pulicherla Sambasiva Rao, Lecturer, J.K.C. College, Guntur, visited our institute to present trophies to the winners of 2003 September month exams.(రిటైర్ అయిన తరువాత భారతీయ మార్గం మాసపత్రికకు కొంతకాలం  సంపాదకులుగా పనిచేశారు. శ్రీ సాంబశివరావు గారు వ్రాసిన ఎన్నో వ్యాసాలు ప్రముఖ దినపత్రిక ఈనాడులో ప్రచురించారు.)",
       photosFolderName: "sambasivarao",
     },
     photos: [
@@ -68,7 +68,7 @@ const photos = [
       designation: "Head of the Department, A.C. College",
       date: "October, 2003",
       description:
-        "Sri Sanjiva Rao, Retired Head of the Department, Mathematics, AC College, Guntur, visited our institute to present trophies to the winners of 2003 October month exams.",
+        "Sri Sanjiva Rao, Retired Head of the Department, Mathematics, AC College, Guntur, visited our institute to present trophies to the winners of 2003 October month exams.(రిటైర్ అయిన తరువాత భారతీయ మార్గం మాసపత్రికకు కొంతకాలం  సంపాదకులుగా పనిచేశారు. బ్రాహ్మణ సేవాసమితి, గుంటూరు, వారి పలు అభివృద్ధి కార్యాలలో పాల్గొన్నారు.)",
       photosFolderName: "sanjivarao",
     },
     photos: [
@@ -93,7 +93,7 @@ const photos = [
       designation: "Proprietor, Suchitra Graphics",
       date: "November, 2003",
       description:
-        "Suchitra Srinivas is an unprecedented personality in the galaxy of the universal teachers of Photoshop and his unimaginable images that were kept inside the gallery of our computers with his golden brush that can be compared to that of Vaddadi Papaiah could make OSS manage to learn and earn the latest teaching methods and introduce exuberant neo rich talents to the world of colours.(Sri Suchitra Srinivas, Suchitra Graphics, 2/3, Brodipet, Guntur, visited our institute to present trophies to the winners of 2003 November month exams.)",
+        "Sri Suchitra Srinivas, Suchitra Graphics, 2/3, Brodipet, Guntur, visited our institute to present trophies to the winners of 2003 November month exams. (ఫోటోషాప్ నందు తన క్రియేటివిటి తో ఊహకు అందని విధంగా చిత్రాలు తయారుచేయగల నిపుణులు)",
       photosFolderName: "srinivassuc",
     },
     photos: [
@@ -125,7 +125,7 @@ const photos = [
       designation: "Proprietor, Sudharsan Printers",
       date: "December, 2003",
       description:
-        "We always deem it our duty to keep in consciousness and express our gratitude to Sri Sudarsan Srinivas garu for the  countless suggestions and the financial support rendered by him in the absence of  which OSS could not have reached the present place and bagged valuable feathers in its Crown of Development. (Mr. & Mrs. Sudharsan Srinivas, Sudharsan Printers & Graphics, Guntur, visited our institute to present trophies to the winners of 2003 December month exams.)",
+        "Mr. & Mrs. Sudharsan Srinivas, Sudharsan Printers & Graphics, Guntur, visited our institute to present trophies to the winners of 2003 December month exams. (ఆర్ధిక సమస్యలతో కొట్టుమిట్టాడుతున్న OSS కు సలహాలతో పాటుగా చేయూత నిచ్చి OSS అభివృద్ధికి తోడ్పడిన వ్యక్తి శ్రీనివాస్ గారు)",
       photosFolderName: "srinivassud",
     },
     photos: [
@@ -156,7 +156,7 @@ const photos = [
       designation: "Reader, Nagarjuna University & Lecturer, BH College",
       date: "9th March, 2004",
       description:
-        "Mr. & Mrs. Janardhana Rao Lanka inagurated our new building, OSS Nilayam.",
+        "Mr. & Mrs. Janardhana Rao Lanka inagurated our new building, OSS Nilayam.(1998 వ సంవత్సరంలో OSS ను స్ధాపించిన దగ్గరనుంచి పలు సలహాలతో OSS ను అబివృద్ధి మార్గంలో నడిపిన శ్రేయోభిలాషి శ్రీ జనార్ధన రావు గారు)",
       photosFolderName: "ossnilayam",
     },
     photos: [
@@ -193,20 +193,17 @@ const photos = [
       designation: "Proprieter, Sri Lakshmi Press",
       date: "June, 2004",
       description:
-        "Sri Katragadda Brahmaiah, Proprietor, Sri Lakshmi Press, Guntur, visited our institute to present trophies to the winners of 2004 May and June  months exams.",
+        "Sri Katragadda Brahmaiah, Proprietor, Sri Lakshmi Press, Guntur, visited our institute to present trophies to the winners of 2004 May and June  months exams. (OSS సంస్థ ఊహించని రీతిలో అభివృద్ధి చెందటానికి కారణం - 20 సంవత్సరాలపాటు శ్రీ బ్రహ్మయ్యగారి అడుగుజాడలలో పనిచేసిన తరువాత OSS ను స్థాపించటమే. 12-07-2021 వ తేదీన శ్రీ బ్రహ్మయ్య గారు కీర్తి శేషులైనారు.)",
       photosFolderName: "brahmaiah",
     },
     photos: [
-      { file: "1.jpg", caption: "Director's Speech" },
+      { file: "1.jpg", caption: "Chief Guest" },
+      { file: "2.jpg", caption: "Director's Speech" },
       {
-        file: "2.jpg",
+        file: "3.jpg",
         caption: "Sai Subrahmanyam - First Prize in CorelDRAW Basics",
       },
-      { file: "3.jpg", caption: "K. Shankar - First Prize in CorelDRAW 12" },
-      {
-        file: "4.jpg",
-        caption: "A. Satyanarayana - First Prize in Adobe Photoshop CS",
-      },
+      { file: "4.jpg", caption: "K. Shankar - First Prize in CorelDRAW 12" },
       {
         file: "5.jpg",
         caption: "J.A. Swathi - First Prize in Computer Basics",
@@ -233,7 +230,11 @@ const photos = [
         file: "12.jpg",
         caption: "Shaik Shalu - First Prize in Adobe PageMaker 7.0.1",
       },
-      { file: "13.jpg", caption: "Students at the time of Prize Distribution" },
+      {
+        file: "13.jpg",
+        caption: "A. Satyanarayana - First Prize in Adobe Photoshop CS",
+      },
+      { file: "14.jpg", caption: "Students at the time of Prize Distribution" },
     ],
   },
   {
@@ -242,7 +243,7 @@ const photos = [
       designation: "Hardware Engineer",
       date: "July, 2004",
       description:
-        "Sri Polisetty Koteswara Rao, Hardware Engineer, visited our institute to present trophies to the winners of July month exams.",
+        "Sri Polisetty Koteswara Rao, Hardware Engineer, visited our institute to present trophies to the winners of July month exams. (ఒక కంప్యూటర్ తో మొదలుపెట్టిన OSS, 20 కంప్యూటర్ల స్ఖాయికి పెరిగే దాకా కొత్త కంప్యూటర్లు తెచ్చి పెట్టడం మొదలుకొని, కంప్యూటర్ కోర్సులు నేర్చుకునే విద్యార్థులకు, కోర్సులు నేర్పే అధ్యాపకులకు కంప్యూటర్ల ద్వారా ఏ విధమైన అంతరాయం కలగకుండా,  తన సహాయ సహకారాలు అందించిన  హార్డ్ వేర్ ఇంజనీర్ శ్రీ కోటేశ్వరరావు గారు.)",
       photosFolderName: "koteswararaohar",
     },
     photos: [
@@ -265,7 +266,7 @@ const photos = [
       designation: "Proprietor, Citizens Printers",
       date: "17th September, 2004",
       description:
-        "Sri S.S.R. Anjaneyulu, Proprietor, Citizens Printers, Guntur, came for 6th Anniversary Celebrations on 17th September, 2004 and present the trophies to the winners 2004 August and September months exams",
+        "Sri S.S.R. Anjaneyulu, Proprietor, Citizens Printers, Guntur, came for 6th Anniversary Celebrations on 17th September, 2004 and present the trophies to the winners 2004 August and September months exams. (తరాలుగా సిటిజన్స్ ప్రింటర్స్ ని నడుపుతూ గుంటూరు మాష్టర్ ప్రింటర్స్ అసోసియేషన్ లో కూడా పలు కీలకమైన పదవులు నిర్వహించారు.)",
       photosFolderName: "anniversary6",
     },
     photos: [
@@ -327,7 +328,7 @@ const photos = [
       designation: "Chartered Accountant",
       date: "October, 2004",
       description:
-        "We cannot erase from our mind the advocacy and the timely gesticulations rendered to our family of OSS by Sri Y. Venkata Reddy, Chartered Accountant, and our family friend and well-wisher so as to enable us to shun different problems that cropped in our organisation. (Sri Venkata Reddy Yennam (Grad C.W.A., F.C.A., DISA (ICAI), Venkata Reddy & CO Chartered Accountants, Guntur) visited our institute to present trophies to the winners of 2004 October month exams.)",
+        "Sri Venkata Reddy Yennam (Grad C.W.A., F.C.A., DISA (ICAI), Venkata Reddy & CO Chartered Accountants, Guntur) visited our institute to present trophies to the winners of 2004 October month exams. (సమస్యలలో చిక్కుకున్న ను పటాపంచలు చేసి అభివృద్ధికి ఏ విధమైన అంతరాయం కలగకుండా చేసిన శ్రీ వెంకట రెడ్డి గారు)",
       photosFolderName: "venkatareddy",
     },
     photos: [
@@ -372,7 +373,7 @@ const photos = [
       designation: "Asst. Professor, RVR & JC College",
       date: "November, 2004",
       description:
-        "Dr. Chandramouli, Assistant Professsor, Civil Engineering, RVR & JC College Engineering, Chowdavaram, Guntur, visited our institute to present trophies to the winners of November, 2004 exams",
+        "Dr. Chandramouli, Assistant Professsor, Civil Engineering, RVR & JC College Engineering, Chowdavaram, Guntur, visited our institute to present trophies to the winners of November, 2004 exams. (శ్రీ చంద్రమౌళిగారు ప్రస్తుతం NRI కాలేజీ ప్రిన్సిపాల్ గా విధులు నిర్వర్తిస్తున్నారు)",
       photosFolderName: "chandramouli",
     },
     photos: [
@@ -395,7 +396,7 @@ const photos = [
       designation: "Physical Education Trainer",
       date: "December, 2004",
       description:
-        "Physical Education Trainer, Government Polytechnical College, Ongole, visited our institute to present trophies to the winners of December, 2004 exams",
+        "Physical Education Trainer, Government Polytechnical College, Ongole, visited our institute to present trophies to the winners of December, 2004 exams. (OSS మొదలుపెట్టిన 5 సంవత్సరాల వరకు శ్రీ రాంబాబు గారి షాపింగ్ కాంప్లెక్స్ లో అద్దెకు ఉండటం జరిగింది. శ్రీ రాంబాబు గారు సహృదయంతో ఇతరులకు సహాయం చేసే మనస్తత్వం కలిగినవారు.)",
       photosFolderName: "rambabu",
     },
     photos: [
@@ -427,7 +428,7 @@ const photos = [
       designation: "Proprietor, Sri Sai Graphics",
       date: "January, 2005",
       description:
-        "Sri V. Ram Kumar, Proprietor, Sri Sai Graphics, Guntur, visited our institute to present trophies to the winners of January 2005 month exams.",
+        "Sri V. Ram Kumar, Proprietor, Sri Sai Graphics, Guntur, visited our institute to present trophies to the winners of January 2005 month exams.(OSS లో కంప్యూటర్ కోర్సులు నేర్చుకున్న చాలామందికి, శ్రీ రామ్ కుమార్ గారు తన గ్రాఫిక్ సెంటర్ అయిన శ్రీ సాయి గ్రాఫిక్స్ లో ఉద్యోగాలిచ్చి OSS స్టూడెంట్సును బాగా ఎంకరేజ్ చేశారు.)",
       photosFolderName: "ramkumar",
     },
     photos: [
@@ -460,7 +461,7 @@ const photos = [
       designation: "Proprietor, Shrushtee Graphics",
       date: "February, 2005",
       description:
-        "Sri P.J. Samuel, Proprietor, Shrushtee Graphics, Guntur, visited our institute to present trophies to the winners of February month exams.",
+        "Sri P.J. Samuel, Proprietor, Shrushtee Graphics, Guntur, visited our institute to present trophies to the winners of February month exams.‘7 రోజులలోనే Computer నేర్చుకోండి’ అనే పుస్తకాన్ని శ్రీ సామ్యూల్ గారి చేతుల మీదుగా ఆవిష్కరిఁపబడినది.",
       photosFolderName: "samuel",
     },
     photos: [
@@ -488,7 +489,11 @@ const photos = [
         file: "9.jpg",
         caption: "L. Veeranjaneya Prasad - First Prize in CorelDRAW 12",
       },
-      { file: "10.jpg", caption: "OSS Material Set present to Guest" },
+      {
+        file: "10.jpg",
+        caption:
+          "OSS Latest Book ‘7 రోజులలోనే Computer నేర్చుకోండి’, a new version inaugurated by Sri P. J. Samuel",
+      },
     ],
   },
   {
@@ -497,7 +502,7 @@ const photos = [
       designation: "Proprietor, Raja Rajeswari Graphics",
       date: "March, 2005",
       description:
-        "Sri Kishore, Proprietor, Raja Rajeswary Graphics, Guntur, visited our institute to present trophies to the winners of March month exams.",
+        "Sri Kishore, Proprietor, Raja Rajeswary Graphics, Guntur, visited our institute to present trophies to the winners of March month exams. (చాలా కాలం టైపు ఇన్సిట్యూట్ ను నడిపి వేల కొలది విద్యార్ధులను టైపు లోయర్, హైయర్, హై స్పీడు పరీక్షలలో కృతార్ధులుగా తయారుచేసిన శ్రీ కిషోర్ గారు తర్వాత కాలంలో కంప్యూటర్ నేర్చుకుని గ్రాఫిక్ సెంటరు పెట్టి ఉన్నారు.)",
       photosFolderName: "kishore",
     },
     photos: [
@@ -548,12 +553,12 @@ const photos = [
       designation: "Proprietor, Creative Graphics",
       date: "May, 2005",
       description:
-        "We do not have words or sentences to express our surprise than to simply find the Inventor of Inventions (Srusthi Kartha – Brahma) who offered life to umpteen number of designs and it may not be out of place if I mention here that this Inventor confused the truth finders to differentiate between the images drawn by him using the Corel Draw and a life-bearing entity if both are kept next to each other. (Sri Durga Prasad, Proprietor, Creative Graphics, visited our institute to present trophies to the winners of 2005 May month exams.)",
+        "Sri Durga Prasad, Proprietor, Creative Graphics, visited our institute to present trophies to the winners of 2005 May month exams.(CorelDRAW నందు తన క్రియేటివిటి తో తనకంటూ ఒక ప్రత్యేక స్థానాన్ని ఏర్పరచుకున్న శ్రీ ప్రసాద్ గారు.)",
       photosFolderName: "prasadcre",
     },
     photos: [
       { file: "1.jpg", caption: "Speech by Director" },
-      { file: "2.jpg", caption: "#Name not available" },
+      { file: "2.jpg", caption: "#" },
       { file: "3.jpg", caption: "Sravanthi" },
       { file: "4.jpg", caption: "#" },
       { file: "5.jpg", caption: "A small pesentation to Guest" },
@@ -565,7 +570,7 @@ const photos = [
       designation: "Asst. Registrar, Nagarjuna University",
       date: "May, 2006",
       description:
-        "Prof. G. Prasad, Asst. Registrar, Acharya Nagarjunja University, Nagarjuna Nagar, Guntur, visited our institute to present trophies to the winners of 2006 May month exams.",
+        "Prof. G. Prasad, Asst. Registrar, Acharya Nagarjunja University, Nagarjuna Nagar, Guntur, visited our institute to present trophies to the winners of 2006 May month exams. (నాగార్జున యూనివర్సిటి లో రిజిస్ట్రార్ గా చేసి రిటైరైనారు)",
       photosFolderName: "prasadg",
     },
     photos: [
@@ -632,7 +637,7 @@ const photos = [
       designation: "Rtd. Director, Bharat Scouts and Guides",
       date: "20th November, 2008",
       description:
-        "Retired Director, Bharat Scouts and Guides, New Delhi, visited the 10th Anniversary Celebrations",
+        "Retired Director, Bharat Scouts and Guides, New Delhi, visited the 10th Anniversary Celebrations. (నిజాయితీ మరియు క్రమశిక్షణతో కూడిన మహనీయుడు. తన జీవనశైలికి గుర్తుగా రిటైరైన తర్వాత World Health Organisation (WHO) కోశాధికారిగా నియమితులైనారు. WHO తరపున సుమారు వందకు పైగా వివిధ దేశాలకు విమాన ప్రయాణాలు చేసి ఉన్నారు.)",
       photosFolderName: "anniversary10",
     },
     photos: [
@@ -680,7 +685,7 @@ const photos = [
       guestName: "L. Pavan Kumar garu",
       designation: "Senior Software Engineer",
       description:
-        "L. Pavan Kumar garu, Senior Software Engineer, Apple, California, USA, visited our institute to present trophies to the winners",
+        "L. Pavan Kumar garu, Senior Software Engineer, Apple, California, USA, visited our institute to present trophies to the winners. (APPLE కంపెనీ తరపున భారతదేశంలో IIT స్టూడెంట్స్ ను సెలెక్ట్ చేసుకొనుటకు, IIT కాలేజీ లలో చాలా సార్లు ఇంటర్వ్యూలు నిర్వహించి ఉన్నారు.)",
       photosFolderName: "pavan",
     },
     photos: [
@@ -699,7 +704,7 @@ const photos = [
       guestName: "Sri Prasad",
       designation: "Marketing Executive",
       description:
-        "Sri Prasad, Marketing Executive, visited our institute to present trophies to the winners",
+        "Sri Prasad, Marketing Executive, visited our institute to present trophies to the winners. (మార్కెటింగ్ రంగంలో నిష్ణాతులు. హస్త సాముద్రిక తో ప్రజల మనోభావలను చెప్పగల దిట్ట.)",
       photosFolderName: "prasadexe",
     },
     photos: [
@@ -747,7 +752,7 @@ const photos = [
       guestName: "Sri Ramesh",
       designation: "Marketing Executive, Ranbaxy",
       description:
-        "Sri Ramesh, Marketing Executive, Ranbaxy, visited our institute to present trophies to the winners",
+        "Sri Ramesh, Marketing Executive, Ranbaxy, visited our institute to present trophies to the winners. (మార్కెటింగ్ రంగంలో తనకంటూ ఒక ప్రత్యేక స్థానాన్ని చేరుకున్న తర్వాత ఉపాధ్యాయ వృత్తిని ఎన్నుకొని ప్రస్తుతం ప్రిన్సిపాల్ గా బాధ్యతలు చేపట్టారు.)",
       photosFolderName: "ramesh",
     },
     photos: [
@@ -903,7 +908,7 @@ const photos = [
       guestName: "Sri M. Sudhakar",
       designation: "Assistant Manager, SBT",
       description:
-        "Sri M. Sudhakar, Assistant Manager, State Bank of Travencore, Old Club Road, Guntur, visited our institute to present trophies to the winners",
+        "Sri M. Sudhakar, Assistant Manager, State Bank of Travencore, Old Club Road, Guntur, visited our institute to present trophies to the winners.",
       photosFolderName: "sudhakar",
     },
     photos: [

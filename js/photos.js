@@ -152,8 +152,8 @@ const photos = [
   {
     details: {
       event: "OSS Nilayam inauguration",
-      guestName: "Dr. L. Janardhana Rao & Mrs. L. Vanajakshi",
-      designation: "Reader, Nagarjuna University & Lecturer, BH College",
+      guestName: "Dr. L. Janardhana Rao",
+      designation: "Reader, Nagarjuna University",
       date: "9th March, 2004",
       description:
         "Mr. & Mrs. Janardhana Rao Lanka inagurated our new building, OSS Nilayam.(1998 వ సంవత్సరంలో OSS ను స్ధాపించిన దగ్గరనుంచి పలు సలహాలతో OSS ను అబివృద్ధి మార్గంలో నడిపిన శ్రేయోభిలాషి శ్రీ జనార్ధన రావు గారు)",
@@ -879,6 +879,26 @@ const photos = [
       { file: "10.jpg", caption: "#" },
       { file: "11.jpg", caption: "#" },
       { file: "12.jpg", caption: "A momento to Guest" },
+    ],
+  },
+  {
+    details: {
+      guestName: "Sri Srinivas",
+      designation: "Professor, RVR & JC Engineering College",
+      description:
+        "Sri Srinivasa Rao, Associated Professor, RVR & JC College of Engineering, Chowdavaram, Guntur, visited our institute to present trophies to the winners",
+      photosFolderName: "srinivasrvr",
+    },
+    photos: [
+      { file: "1.jpg", caption: "Director Speech" },
+      { file: "2.jpg", caption: "Guest Speech" },
+      { file: "3.jpg", caption: "#" },
+      { file: "4.jpg", caption: "#" },
+      { file: "5.jpg", caption: "#" },
+      { file: "6.jpg", caption: "#" },
+      { file: "7.jpg", caption: "#" },
+      { file: "8.jpg", caption: "#" },
+      { file: "9.jpg", caption: "A momento to Guest" },
     ],
   },
   {

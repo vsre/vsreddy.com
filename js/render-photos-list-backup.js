@@ -4,16 +4,6 @@ for (let i = 0; i < photos.length; i++) {
   var photo = photos[i];
   var divEl = document.createElement("div");
   divEl.classList.add("col-12", "col-md-4");
-
-  const c = "/photos/guests/";
-
-  const img = document.createElement("img");
-  img.classList.add("figure-img", "img-fluid", "rounded", "mx-auto", "d-block");
-  img.src = c + guests[i].file;
-  img.alt = guests[i].alt;
-  var gEle = document.createElement("div");
-  gEle.classList.add("col-12", "col-md-4");
-  gEle.append(img);
   var h4El = document.createElement("h5");
 
   var aEl = document.createElement("a");
@@ -21,8 +11,8 @@ for (let i = 0; i < photos.length; i++) {
   aEl.innerHTML = getLinkText(photo.details);
 
   aEl.href = "/pages/photo-set.html?set=" + i;
+
   h4El.appendChild(aEl);
-  divEl.append(gEle);
   divEl.appendChild(h4El);
   var pEl = document.createElement("p");
   pEl.classList.add("muted");
@@ -31,6 +21,7 @@ for (let i = 0; i < photos.length; i++) {
 
   fragment.appendChild(divEl);
 }
+
 const photosListContainer = document.getElementById("photos-list-container");
 photosListContainer.appendChild(fragment);
 

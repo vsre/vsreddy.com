@@ -1,35 +1,71 @@
 var fragment = document.createDocumentFragment();
 
+/*
+<div class="d-flex align-items-center"> - tileDiv
+    <div class="photo-div"> - tilePhotoDiv
+        <img src="..." width="120px" height="120px" />
+    </div>
+    <div class="details-div"> - tileDetailsDiv
+        <h5>....</h5>
+        <p>....</p>
+    </div>
+</div>
+*/
+
 for (let i = 0; i < photos.length; i++) {
   var photo = photos[i];
-  var divEl = document.createElement("div");
-  divEl.classList.add("col-12", "col-md-4");
 
+  // Grid Div
+  var gridDiv = document.createElement("div");
+  gridDiv.classList.add("col-12", "col-md-4");
+
+  // Tile Div
+  var tileDiv = document.createElement("div");
+  tileDiv.classList.add("d-flex", "align-items-center");
+
+  // Tile Photo Div
   const c = "/photos/guests/";
-
   const img = document.createElement("img");
   img.classList.add("figure-img", "img-fluid", "rounded", "mx-auto", "d-block");
-  img.src = c + guests[i].file;
-  img.alt = guests[i].alt;
-  var gEle = document.createElement("div");
-  gEle.classList.add("col-12", "col-md-4");
-  gEle.append(img);
+  img.src = c + photo.details.guestImage;
+  img.alt = photo.details.guestName;
+
+  var imgAEl = document.createElement("a");
+  imgAEl.href = "/pages/photo-set.html?set=" + i;
+
+  imgAEl.append(img);
+
+  // img.width = 100;
+  // img.style.paddingRight = 10 + "px";
+  var tilePhotoDiv = document.createElement("div");
+  tilePhotoDiv.classList.add("photo-div");
+  tilePhotoDiv.append(imgAEl);
+
+  // Tile Details Div
+  var tileDetailsDiv = document.createElement("div");
+  tileDetailsDiv.classList.add("details-div");
   var h4El = document.createElement("h5");
-
   var aEl = document.createElement("a");
-
   aEl.innerHTML = getLinkText(photo.details);
-
   aEl.href = "/pages/photo-set.html?set=" + i;
   h4El.appendChild(aEl);
-  divEl.append(gEle);
-  divEl.appendChild(h4El);
-  var pEl = document.createElement("p");
-  pEl.classList.add("muted");
-  pEl.innerHTML = photo.details.date || "&nbsp;";
-  divEl.appendChild(pEl);
+  tileDetailsDiv.appendChild(h4El);
 
-  fragment.appendChild(divEl);
+  if (photo.details.date) {
+    var pEl = document.createElement("p");
+    pEl.classList.add("muted");
+    pEl.innerHTML = photo.details.date || "&nbsp;";
+    tileDetailsDiv.appendChild(pEl);
+  }
+
+  // Append Photo and Details into Tile
+  tileDiv.appendChild(tilePhotoDiv);
+  tileDiv.appendChild(tileDetailsDiv);
+
+  // Append Tile Div into grid Div
+  gridDiv.appendChild(tileDiv);
+
+  fragment.appendChild(gridDiv);
 }
 const photosListContainer = document.getElementById("photos-list-container");
 photosListContainer.appendChild(fragment);

@@ -6,7 +6,7 @@ const photos = [
       designation: "District Employment Officer, Guntur",
       date: "18th August, 2003",
       description:
-        "Sri M. Appi Reddy, District Employment Officer, Guntur came for 5th Anniversary Celebrations on 18th August 2003. (శ్రీ అప్పిరెడ్డిగారు, OSS ను స్థాపించిన 5 సంవత్సరాలకే ఇన్సిట్యూట్ లో ఇచ్చే సర్టిఫికెట్లను గుంటూరు ఎంప్లాయ్మెంటు ఆఫీసులో రిజిష్టరు చేయించుకొనే వీలు కల్పించినారు.)",
+        "Sri M. Appi Reddy, District Employment Officer, Guntur came for 5th Anniversary Celebrations on 18th August 2003. (OSS ను స్థాపించిన 5 సంవత్సరాలకే ఇన్సిట్యూట్ లో ఇచ్చే సర్టిఫికెట్లను గుంటూరు ఎంప్లాయ్మెంటు ఆఫీసులో రిజిష్టరు చేయించుకొనే అనుమతి శ్రీ అప్పిరెడ్డిగారు కల్పించినారు.)",
       photosFolderName: "anniversary5",
       guestImage: "1.jpg",
     },
@@ -96,7 +96,7 @@ const photos = [
       designation: "Proprietor, Suchitra Graphics",
       date: "November, 2003",
       description:
-        "Sri Suchitra Srinivas, Suchitra Graphics, 2/3, Brodipet, Guntur, visited our institute to present trophies to the winners of 2003 November month exams. (ఫోటోషాప్ నందు తన క్రియేటివిటి తో ఊహకు అందని విధంగా చిత్రాలు తయారుచేయగల నిపుణులు)",
+        "Sri Suchitra Srinivas, Suchitra Graphics, 2/3, Brodipet, Guntur, visited our institute to present trophies to the winners of 2003 November month exams. (ఫోటోషాప్ నందు తన క్రియేటివిటి తో ఊహకు అందని విధంగా చిత్రాలు తయారుచేయగల నిపుణులు - సుచిత్రా శ్రీనివాస్ గారు )",
       photosFolderName: "srinivassuc",
       guestImage: "4.jpg",
     },
@@ -161,7 +161,7 @@ const photos = [
       designation: "Reader, Nagarjuna University",
       date: "9th March, 2004",
       description:
-        "Mr. & Mrs. Janardhana Rao Lanka inagurated our new building, OSS Nilayam.(1998 వ సంవత్సరంలో OSS ను స్ధాపించిన దగ్గరనుంచి పలు సలహాలతో OSS ను అబివృద్ధి మార్గంలో నడిపిన శ్రేయోభిలాషి శ్రీ జనార్ధన రావు గారు)",
+        "Mr. & Mrs. Janardhana Rao Lanka inagurated our new building, OSS Nilayam.(1998 వ సంవత్సరంలో OSS ను స్ధాపించిన దగ్గరనుంచి పలు సలహాలతో OSS ను అబివృద్ధి మార్గంలో నడిపించిన శ్రేయోభిలాషి శ్రీ జనార్ధన రావు గారు)",
       photosFolderName: "ossnilayam",
       guestImage: "6.jpg",
     },
@@ -250,7 +250,7 @@ const photos = [
       designation: "Hardware Engineer",
       date: "July, 2004",
       description:
-        "Sri Polisetty Koteswara Rao, Hardware Engineer, visited our institute to present trophies to the winners of July month exams. (ఒక కంప్యూటర్ తో మొదలుపెట్టిన OSS, 20 కంప్యూటర్ల స్ఖాయికి పెరిగే దాకా కొత్త కంప్యూటర్లు తెచ్చి పెట్టడం మొదలుకొని, కంప్యూటర్ కోర్సులు నేర్చుకునే విద్యార్థులకు, కోర్సులు నేర్పే అధ్యాపకులకు కంప్యూటర్ల ద్వారా ఏ విధమైన అంతరాయం కలగకుండా,  తన సహాయ సహకారాలు అందించిన  హార్డ్ వేర్ ఇంజనీర్ శ్రీ కోటేశ్వరరావు గారు.)",
+        "Sri Polisetty Koteswara Rao, Hardware Engineer, visited our institute to present trophies to the winners of July month exams. (ఒక కంప్యూటర్ తో మొదలుపెట్టిన OSS, 20 కంప్యూటర్ల స్ఖాయికి పెరిగే దాకా కొత్త కంప్యూటర్లు తెచ్చి పెట్టడం మొదలుకొని, కంప్యూటర్ కోర్సులు నేర్చుకునే విద్యార్థులకు మరియు కోర్సులు నేర్పే అధ్యాపకులకు, కంప్యూటర్ల ద్వారా ఏ విధమైన అంతరాయం కలగకుండా,  తన సహాయ సహకారాలు అందించిన హార్డ్ వేర్ ఇంజనీర్ శ్రీ కోటేశ్వరరావు గారు.)",
       photosFolderName: "koteswararaohar",
       guestImage: "8.jpg",
     },
@@ -337,7 +337,7 @@ const photos = [
       designation: "Chartered Accountant",
       date: "October, 2004",
       description:
-        "Sri Venkata Reddy Yennam (Grad C.W.A., F.C.A., DISA (ICAI), Venkata Reddy & CO Chartered Accountants, Guntur) visited our institute to present trophies to the winners of 2004 October month exams. (సమస్యలలో చిక్కుకున్న ను పటాపంచలు చేసి అభివృద్ధికి ఏ విధమైన అంతరాయం కలగకుండా చేసిన శ్రీ వెంకట రెడ్డి గారు)",
+        "Sri Venkata Reddy Yennam (Grad C.W.A., F.C.A., DISA (ICAI), Venkata Reddy & CO Chartered Accountants, Guntur) visited our institute to present trophies to the winners of 2004 October month exams. (సమస్యలలో చిక్కుకున్న OSS సంస్థను, సమస్యల వలయం నుంచి బయటకు తెచ్చి, OSS సంస్థ యొక్క అభివృద్ధికి ఏ విధమైన అంతరాయం కలగకుండా చేసిన శ్రీ వెంకట రెడ్డి గారు)",
       photosFolderName: "venkatareddy",
       guestImage: "10.jpg",
     },
@@ -383,7 +383,7 @@ const photos = [
       designation: "Asst. Professor, RVR & JC College",
       date: "November, 2004",
       description:
-        "Dr. Chandramouli, Assistant Professsor, Civil Engineering, RVR & JC College Engineering, Chowdavaram, Guntur, visited our institute to present trophies to the winners of November, 2004 exams. (శ్రీ చంద్రమౌళిగారు ప్రస్తుతం NRI కాలేజీ ప్రిన్సిపాల్ గా విధులు నిర్వర్తిస్తున్నారు)",
+        "Dr. Chandramouli, Assistant Professsor, Civil Engineering, RVR & JC College Engineering, Chowdavaram, Guntur, visited our institute to present trophies to the winners of November, 2004 exams. (శ్రీ చంద్రమౌళిగారు ప్రస్తుతం NRI కాలేజీ సివిల్ ఇంజినీరింగ్, హెడ్ ఆఫ్ ద  డిపార్ట్మెంట్ గా విధులు నిర్వర్తిస్తున్నారు)",
       photosFolderName: "chandramouli",
       guestImage: "11.jpg",
     },
@@ -474,7 +474,7 @@ const photos = [
       designation: "Proprietor, Shrushtee Graphics",
       date: "February, 2005",
       description:
-        "Sri P.J. Samuel, Proprietor, Shrushtee Graphics, Guntur, visited our institute to present trophies to the winners of February month exams.‘7 రోజులలోనే Computer నేర్చుకోండి’ అనే పుస్తకాన్ని శ్రీ సామ్యూల్ గారి చేతుల మీదుగా ఆవిష్కరిఁపబడినది.",
+        "Sri P.J. Samuel, Proprietor, Shrushtee Graphics, Guntur, visited our institute to present trophies to the winners of February month exams.‘7 రోజులలోనే Computer నేర్చుకోండి’ అనే పుస్తకాన్ని శ్రీ సామ్యూల్ గారి చేతుల మీదుగా ఆవిష్కరింపబడినది.",
       photosFolderName: "samuel",
       guestImage: "14.jpg",
     },
@@ -607,7 +607,7 @@ const photos = [
       designation: "Director and Correspondent",
       date: "July, 2006",
       description:
-        "Sri Kanna Reddy, Director and Correspondent, Rama Krishna Residential College, Gujjangundla, Guntur, visited our institute to present trophies to the winners of 2006 July month exams.",
+        "Sri Kanna Reddy, Director and Correspondent, Rama Krishna Residential College, Gujjangundla, Guntur, visited our institute to present trophies to the winners of 2006 July month exams.(విద్యాబోధన వ్యాపార దృష్టితో కాకుండా, ఉన్నత ఆశయాలతో విద్యా బోధనా చెసే వ్యక్తి శ్రీ కన్నారెడ్డి గారు)",
       photosFolderName: "kannareddy",
       guestImage: "19.jpg",
     },
@@ -632,7 +632,7 @@ const photos = [
       designation: "School Master",
       date: "June, 2008",
       description:
-        "Sri K. Venkata Rao, M.A., M.Li.Sc., B.Ed., School, visited our institute to present trophies to the winners of 2008 June month exams",
+        "Sri K. Venkata Rao, M.A., M.Li.Sc., B.Ed., visited our institute to present trophies to the winners of 2008 June month exams. (ఉన్నత భావాలు కలిగిన గవర్నమెంట్ స్కూల్ మాస్టర్ గారు. )",
       photosFolderName: "venkatarao",
       guestImage: "20.jpg",
     },

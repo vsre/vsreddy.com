@@ -632,7 +632,7 @@ const photos = [
       designation: "School Master",
       date: "June, 2008",
       description:
-        "Sri K. Venkata Rao, M.A., M.Li.Sc., B.Ed., visited our institute to present trophies to the winners of 2008 June month exams. (ఉన్నత భావాలు కలిగిన గవర్నమెంట్ స్కూల్ మాస్టర్ గారు. )",
+        "Sri K. Venkata Rao, M.A., M.Li.Sc., B.Ed., visited our institute to present trophies to the winners of 2008 June month exams. (ఉన్నత భావాలు కలిగిన గవర్నమెంట్ స్కూల్ మాస్టర్ శ్రీ వెంకటరావు గారు. విద్యార్థులు ప్రభుత్వ పాఠశాలల్లో సరిగ్గా చదువులు లేవని ప్రవేట్ కాన్వెంట్లకు వెళుతున్న సమయంలో, ప్రభుత్వ పాఠశాలల్లో కూడా తనదయిన శైలిలో విద్యార్థులను ఉన్నత స్థానాలు పొందగలిగేలా తీర్చి దిద్దగలిగే సత్తా ఉన్న వ్యక్తి.)",
       photosFolderName: "venkatarao",
       guestImage: "20.jpg",
     },
@@ -707,7 +707,7 @@ const photos = [
       guestName: "L. Pavan Kumar garu",
       designation: "Senior Software Engineer",
       description:
-        "L. Pavan Kumar garu, Senior Software Engineer, Apple, California, USA, visited our institute to present trophies to the winners. (APPLE కంపెనీ తరపున భారతదేశంలో IIT స్టూడెంట్స్ ను సెలెక్ట్ చేసుకొనుటకు, IIT కాలేజీ లలో చాలా సార్లు ఇంటర్వ్యూలు నిర్వహించి ఉన్నారు.)",
+        "L. Pavan Kumar garu, Senior Software Engineer, Apple, California, USA, visited our institute to present trophies to the winners. (APPLE కంపెనీ తరపున భారతదేశంలో IIT స్టూడెంట్స్ ను సెలెక్ట్ చేసుకొనుటకు, IIT కాలేజీలలో చాలా సార్లు ఇంటర్వ్యూలు నిర్వహించి ఉన్నారు.)",
       photosFolderName: "pavan",
       guestImage: "23.jpg",
     },
@@ -727,7 +727,7 @@ const photos = [
       guestName: "Sri Prasad",
       designation: "Marketing Executive",
       description:
-        "Sri Prasad, Marketing Executive, visited our institute to present trophies to the winners. (మార్కెటింగ్ రంగంలో నిష్ణాతులు. హస్త సాముద్రిక తో ప్రజల మనోభావలను చెప్పగల దిట్ట.)",
+        "Sri Prasad, Marketing Executive, visited our institute to present trophies to the winners. (మార్కెటింగ్ రంగంలో నిష్ణాతులు. హస్త సాముద్రికా శాస్త్రంతో ప్రజల మనోభావలను చెప్పగల దిట్ట.)",
       photosFolderName: "prasadexe",
       guestImage: "24.jpg",
     },
@@ -758,7 +758,7 @@ const photos = [
       guestName: "Sri J. Punna Reddy",
       designation: "Mandal Development Officer",
       description:
-        "Sri Punna Reddy, Retired Mandal Development Officer, Pittalavari Palem, visited our institute to present trophies to the winners",
+        "Sri Punna Reddy, Retired Mandal Development Officer, Pittalavari Palem, visited our institute to present trophies to the winners. (శ్రీ వున్నా రెడ్డి గారి పర్యవేక్షణలో OSS సంస్థ వారు ఉండటానికి పాత గుంటూరులో రెండంతస్తుల బిల్డింగ్ మరియు అఫీస్ కొరకు బ్రాడీపేటలో నాలుగు అంతస్థుల బిల్డింగ్ ల నిర్మానం జరిగినది)",
       photosFolderName: "punnareddy",
       guestImage: "25.jpg",
     },
@@ -777,7 +777,7 @@ const photos = [
       guestName: "Sri Ramesh",
       designation: "Marketing Executive, Ranbaxy",
       description:
-        "Sri Ramesh, Marketing Executive, Ranbaxy, visited our institute to present trophies to the winners. (మార్కెటింగ్ రంగంలో తనకంటూ ఒక ప్రత్యేక స్థానాన్ని చేరుకున్న తర్వాత ఉపాధ్యాయ వృత్తిని ఎన్నుకొని ప్రస్తుతం ప్రిన్సిపాల్ గా బాధ్యతలు చేపట్టారు.)",
+        "Sri Ramesh, Marketing Executive, Ranbaxy, visited our institute to present trophies to the winners. (మార్కెటింగ్ రంగంలో తనకంటూ ఒక ప్రత్యేక స్థానాన్ని చేరుకున్న తర్వాత ఉపాధ్యాయ వృత్తిని ఎన్నుకొని ప్రస్తుతం కాలేజీ ప్రిన్సిపాల్ గా బాధ్యతలు చేపట్టారు.)",
       photosFolderName: "ramesh",
       guestImage: "26.jpg",
     },
@@ -892,7 +892,7 @@ const photos = [
       guestName: "Sri Koteswara Rao",
       designation: "Principal, Siva Electronics",
       description:
-        "Sri Koteswara Rao, Principal, Siva Electronics, 4/9, Bradipet, Guntur, visited our institute to present trophies to the winners",
+        "Sri Koteswara Rao, Principal, Siva Electronics, 4/9, Bradipet, Guntur, visited our institute to present trophies to the winners. (రేడియో  మెకానిజంతో తన కెరీర్ మొదలుపెట్టి కాలానికి అనుగుణంగా, టి.వి. మెకానిజం, కంప్యూటర్  మెకానిజం కోర్సులు నేర్పటంలో ఉమ్మడి ఆంధ్ర ప్రదేశ్ లోని అన్ని జిల్లాలలో తన కంటూ ఒక ప్రత్యేక స్థానాన్ని ఏర్పాటు చేసుకుని, అంతటితో ఆగకుండా లేప్ టాప్ మెకానిజం, సెల్ మెకానిజంల కోర్సులు మొదలుపెట్టి విదేశీ విద్యార్థులకు కూడా ఆన్లైన్ క్లాసెస్ నిర్వహించే స్థాయికి చేరుకొన్న వ్యక్తి శ్రీ కోటేశ్వర రావు గారు.)",
       photosFolderName: "koteswararaosiva",
       guestImage: "30.jpg",
     },
@@ -960,7 +960,7 @@ const photos = [
       guestName: "Sri M. Sudhakar",
       designation: "Assistant Manager, SBT",
       description:
-        "Sri M. Sudhakar, Assistant Manager, State Bank of Travencore, Old Club Road, Guntur, visited our institute to present trophies to the winners.",
+        "Sri M. Sudhakar, Assistant Manager, State Bank of Travencore, Old Club Road, Guntur, visited our institute to present trophies to the winners.(OSS సంస్థ మొదలుపెట్టి నప్పటినుంచి అప్పులతో, వడ్డీలతో సతమతమవుతున్న తరుణంలో, బ్యాంకుల గురించి వివరించి లోన్స్ ఇప్పించి OSS సంస్థ ప్రశాంత వాతావరణంలో నడిచేలా ఏర్పాటు చేసిన వ్యక్తి శ్రీ సుధాకర్ గారు.)",
       photosFolderName: "sudhakar",
       guestImage: "33.jpg",
     },
@@ -999,7 +999,7 @@ const photos = [
       guestName: "Tabitha garu",
       designation: "Gold Medalist, IGNO University",
       description:
-        "Tabitha garu, 1st Rank Holder from IGNO University and got the Prize from India Vice-President, visited our institute to present trophies to the winners",
+        "Tabitha garu, 1st Rank Holder from IGNO University and got the Gold Medal from India Vice-President, visited our institute to present trophies to the winners. (OSS గర్వంగా చెప్పుకొనే మరచిపోని సంఘటన. OSS లో పార్ట్ టైం జాబ్ చేస్తూ తబిత గారు MCA లో మొదటి రాంక్ సంపాదించి, భారతదేశ ఉప రాష్ట్రపతి చేతుల మీదుగా గోల్డ్ మెడల్ అందుకున్నారు)",
       photosFolderName: "tabitha",
       guestImage: "35.jpg",
     },

@@ -538,7 +538,7 @@ const photos = [
         caption:
           "M. Rajya Lakshmi - First Prize in Fundamentals and Internet Concepts",
       },
-      { file: "5.jpg", caption: "Students" },
+      { file: "5.jpg", caption: "#" },
     ],
   },
   {
